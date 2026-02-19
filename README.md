@@ -1,4 +1,4 @@
-# Python Monyet3
+# Python Monyet
 
 Repo ini berisi skrip Python buat gesture recognition dan image reaction.
 
@@ -11,9 +11,16 @@ Repo ini berisi skrip Python buat gesture recognition dan image reaction.
 
 1. Clone repo:
 
-```bash
+```
 git clone https://github.com/Raifabrio/python-monyet3.git
+```
+```
 cd python-monyet3
+```
+```
 pip install -r requirements.txt
+```
+```
 python gesture.py
+```
 
